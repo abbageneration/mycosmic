@@ -1,2 +1,0 @@
-# mycosmic
-Pypi Test Package
